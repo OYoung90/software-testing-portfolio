@@ -5,26 +5,26 @@ A collection of publicly available applications and environments I use to develo
 ## Manual Testing
 
 ### SauceDemo
-E-commerce application used for functional testing, test design, test execution and defect reporting.
+E-commerce application used for functional testing, test design, test execution and defect reporting (https://www.saucedemo.com/)
 
 ### The Internet
-A collection of small web-testing scenarios covering authentication, forms, checkboxes, dynamic content, file uploads, alerts and other common web behaviours.
+A collection of small web-testing scenarios covering authentication, forms, checkboxes, dynamic content, file uploads, alerts and other common web behaviours (https://the-internet.herokuapp.com/)
 
 ### DemoQA
-Web application containing forms, buttons, widgets, tables and other UI components for testing practice.
+Web application containing forms, buttons, widgets, tables and other UI components for testing practice (https://demoqa.com/)
 
 ### Automation in Testing – Book Room
-A more realistic web application for practising functional, exploratory, accessibility and later automation testing.
+A more realistic web application for practising functional, exploratory, accessibility and later automation testing (https://automationintesting.online/)
 
 ## API Testing
 
 ### Restful-Booker
-REST API testing environment for practising CRUD operations, authentication, request/response validation and negative testing.
+REST API testing environment for practising CRUD operations, authentication, request/response validation and negative testing (https://restful-booker.herokuapp.com/) (https://restful-booker.herokuapp.com/)
 
 ## Test Automation
 
-### UI Testing Playground
-A dedicated playground for developing UI automation skills and dealing with common automation challenges such as dynamic elements, waits, AJAX, visibility and selectors.
+### QA Practice
+Purpose-built practice sites for login, forms, e-commerce and flight booking, with stable locators and examples for Selenium, Cypress and Playwright (https://www.qapractice.com/)
 
 ---
 
