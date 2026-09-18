@@ -19,7 +19,7 @@ A more realistic web application for practising functional, exploratory, accessi
 ## API Testing
 
 ### Restful-Booker
-REST API testing environment for practising CRUD operations, authentication, request/response validation and negative testing (https://restful-booker.herokuapp.com/) (https://restful-booker.herokuapp.com/)
+REST API testing environment for practising CRUD operations, authentication, request/response validation and negative testing (https://restful-booker.herokuapp.com/)
 
 ## Test Automation
 
